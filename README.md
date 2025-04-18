@@ -1,6 +1,8 @@
 # Xiaohongshu Video Downloader
 Xiaohongshu Video Downloader is a cutting - edge online tool designed to simplify the process of removing watermarks from videos and images sourced from various social media platforms. You can access this powerful tool at [Xiaohongshu Video Downloader](https://xiaohongshu-video-downloader.com/).
 
+
+![Xiaohongshu Video Downloader Interface](https://img.xiaohongshu-video-downloader.com/xiaohongshu/1743040333535.jpg)
 ## Introduction
 In the era of booming social media, content sharing has become an integral part of our lives. However, watermarks on videos and images can sometimes be a hindrance, especially when you want to use the content for personal or professional purposes. Xiaohongshu Video Downloader steps in to solve this problem, offering a seamless experience for watermark removal.
 
